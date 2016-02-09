@@ -1,0 +1,6 @@
+tms-engineering:
+  channel: '#relay'
+  members: [bgulati,erikmiller,gitlevich,mangaldev,pkmishra]
+  use_labels: true
+  exclude_labels:
+    - wip
